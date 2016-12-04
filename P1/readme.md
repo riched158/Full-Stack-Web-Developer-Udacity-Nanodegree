@@ -2,11 +2,11 @@
 
 Project 1 of Udacity's Full Stack Web Developer Nanodegree 
 
-Info
+**Info**
 
 Server side script that generates a movie trailer website
 
-User Instructions
+**User Instructions**
 
-Clone this repository and execute fresh_tomatoes.py.  the resulting page can be viewed by opening fresh_tomatoes.html
+Clone this repository and execute fresh_tomatoes.py.  The resulting page can be viewed by opening fresh_tomatoes.html
 
