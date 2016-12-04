@@ -8,5 +8,5 @@ Server side script that generates a movie trailer website
 
 **User Instructions**
 
-Clone this repository and execute fresh_tomatoes.py.  The resulting page can be viewed by opening fresh_tomatoes.html
+Clone this repository and execute movies.py.  The resulting page can be viewed by opening movies.html
 
