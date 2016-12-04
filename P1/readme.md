@@ -8,5 +8,5 @@ Server side script that generates a movie trailer website
 
 **User Instructions**
 
-Clone this repository and execute movies.py.  The resulting page can be viewed by opening movies.html
+Clone this repository and call movies.py.  The resulting page can be viewed by opening movies.html
 
